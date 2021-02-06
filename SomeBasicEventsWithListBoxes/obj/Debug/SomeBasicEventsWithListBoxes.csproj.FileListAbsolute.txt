@@ -1,0 +1,10 @@
+C:\Users\ivora\OneDrive\Работен плот\SomeBasicEventsWithListBoxes\SomeBasicEventsWithListBoxes\bin\Debug\SomeBasicEventsWithListBoxes.exe.config
+C:\Users\ivora\OneDrive\Работен плот\SomeBasicEventsWithListBoxes\SomeBasicEventsWithListBoxes\bin\Debug\SomeBasicEventsWithListBoxes.exe
+C:\Users\ivora\OneDrive\Работен плот\SomeBasicEventsWithListBoxes\SomeBasicEventsWithListBoxes\bin\Debug\SomeBasicEventsWithListBoxes.pdb
+C:\Users\ivora\OneDrive\Работен плот\SomeBasicEventsWithListBoxes\SomeBasicEventsWithListBoxes\obj\Debug\SomeBasicEventsWithListBoxes.csprojAssemblyReference.cache
+C:\Users\ivora\OneDrive\Работен плот\SomeBasicEventsWithListBoxes\SomeBasicEventsWithListBoxes\obj\Debug\SomeBasicEventsWithListBoxes.Form1.resources
+C:\Users\ivora\OneDrive\Работен плот\SomeBasicEventsWithListBoxes\SomeBasicEventsWithListBoxes\obj\Debug\SomeBasicEventsWithListBoxes.Properties.Resources.resources
+C:\Users\ivora\OneDrive\Работен плот\SomeBasicEventsWithListBoxes\SomeBasicEventsWithListBoxes\obj\Debug\SomeBasicEventsWithListBoxes.csproj.GenerateResource.cache
+C:\Users\ivora\OneDrive\Работен плот\SomeBasicEventsWithListBoxes\SomeBasicEventsWithListBoxes\obj\Debug\SomeBasicEventsWithListBoxes.csproj.CoreCompileInputs.cache
+C:\Users\ivora\OneDrive\Работен плот\SomeBasicEventsWithListBoxes\SomeBasicEventsWithListBoxes\obj\Debug\SomeBasicEventsWithListBoxes.exe
+C:\Users\ivora\OneDrive\Работен плот\SomeBasicEventsWithListBoxes\SomeBasicEventsWithListBoxes\obj\Debug\SomeBasicEventsWithListBoxes.pdb
