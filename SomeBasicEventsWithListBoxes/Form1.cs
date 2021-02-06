@@ -40,7 +40,7 @@ namespace SomeBasicEventsWithListBoxes
             }
             catch (Exception)
             {
-                MessageBox.Show("Please, select number!");
+                MessageBox.Show("Please, call the administator!");
             }
             
         }
